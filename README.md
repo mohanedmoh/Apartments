@@ -7,9 +7,9 @@ you will need android studio to build it and run it into your phone
 
 ## Screenshots
 
-![Alt Text](https://i.ibb.co/JyXYSFz/Whats-App-Image-2020-06-19-at-7-05-23-PM-2.jpg)
-![Alt Text](https://i.ibb.co/cFf4YXY/Whats-App-Image-2020-06-19-at-7-05-23-PM-1.jpg)
-![Alt Text](https://i.ibb.co/Nsgp6Nq/Whats-App-Image-2020-06-19-at-7-05-23-PM.jpg)
+![Alt Text](https://i.ibb.co/9Yq3pvz/Whats-App-Image-2020-06-19-at-7-05-23-PM-1.jpg)
+![Alt Text](https://i.ibb.co/4F3ZW3H/Whats-App-Image-2020-06-19-at-7-05-23-PM-2.jpg)
+![Alt Text](https://i.ibb.co/4RBPfHs/Whats-App-Image-2020-06-19-at-7-05-23-PM.jpg)
 
 
 ## License
