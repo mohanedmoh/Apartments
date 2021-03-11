@@ -1,0 +1,55 @@
+<resources>
+    <string name="url" translatable="false">http://flats.savvy-technology.com/public/api/</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="name_test" translatable="false">mohaned mohamed omran</string>
+    <string name="intro" translatable="false">تطبيق شقاتك لأدارة مبانيك و شققك و معرفة تفاصيل الأسعار و توفير تقارير عن الدخل الكلي للشقة او المبنى و ايضا يسهل عليك عملية معرفة معلومات التواصل مع المؤجرين لكل شقة</string>
+    <string name="app_ver" translatable="false">Version 1.0.0</string>
+    <string name="app_name">شقاتك</string>
+    <string name="home">الرئيسية</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="aboutus">عننا</string>
+    <string name="check_internet">الرجاء التأكد من اتصالك بالأنترنت</string>
+    <string name="press_back">اضغظ رجوع مرة اخرى للخروج</string>
+    <string name="fill_error">الرجاء التأكد من ملء البيانات</string>
+    <string name="try_later">حاول مرة اخرى</string>
+    <string name="day">يوم</string>
+    <string name="name">الأسم</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="password">كلمة السر</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="insure_dialog">هل انت متأكد من الغاء الإيجار قبل زمنه ؟</string>
+    <string name="ok">نعم</string>
+    <string name="edit">تعديل</string>
+    <string name="date_example">سنة\\شهر\\يوم</string>
+    <string name="wrong_password">غلط في اسم المستخدم او كلمة السر</string>
+    <string name="name1">الاسم</string>
+    <string name="signout">تسجيل الخروج</string>
+    <string name="reserve">حجز</string>
+    <string name="welcome">مرحبا</string>
+    <string name="last_reservation_date">  اخر تاريخ حجز</string>
+    <string name="building_name">" اسم المبنى "</string>
+    <string name="last_price">"اخر سعر  "</string>
+    <string name="reserver_name">"اسم المؤجر  "</string>
+    <string name="reserver_phone">"رقم المؤجر  "</string>
+    <string name="reservation_start_date">"بداية الإيجار  "</string>
+    <string name="reservation_end_date">"نهاية الإيجار  "</string>
+    <string name="price">"السعر  "</string>
+    <string name="total_price">"مجموع السعر  "</string>
+    <string name="priceV">السعر</string>
+    <string name="period">نوع الفترة</string>
+    <string name="month">شهر</string>
+    <string name="cancel_reservation">الغاء الحجز</string>
+    <string name="reservation_page">صفحة الحجز</string>
+    <string name="apartment_profile">ملف الشقة</string>
+    <string name="address">"العنوان  "</string>
+    <string name="apartments">الشقق</string>
+    <string name="apartment_name">اسم الشقة</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="setting">الأعدادات</string>
+    <string name="success_reserved">تم الحجز بنجاح</string>
+    <string name="success_cancel">تم الغاء الحجز بنجاح</string>
+    <string name="error_date">الرجاء التأكد من التواريخ</string>
+    <string name="note">ملاحظة</string>
+    <string name="done_editting">تم التعديل بنجاح</string>
+</resources>

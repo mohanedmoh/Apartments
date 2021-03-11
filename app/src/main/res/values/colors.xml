@@ -1,0 +1,12 @@
+<resources>
+    <color name="colorPrimary">#3fb0ac</color>
+    <color name="colorPrimaryDark">#173e43</color>
+    <color name="colorAccent">@color/colorPrimaryDark</color>
+    <color name="primary_text">#1B1B1B</color>
+    <color name="secondary_text">#929291</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="editboxbg">#eae7e7</color>
+    <color name="white">#ffffff</color>
+    <color name="bgwhite">#f8f5f5</color>
+
+</resources>

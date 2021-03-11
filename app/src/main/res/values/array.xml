@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="period_types">
+        <item>@string/day</item>
+        <item>@string/month</item>
+    </string-array>
+</resources>
